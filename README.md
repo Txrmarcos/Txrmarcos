@@ -1,7 +1,3 @@
-### Hi there 👋
-
-![Txrmarcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Txrmarcos&show_icons=true&theme=synthwave)
-
 ## Tech Stack
 
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)]('https://github.com/Txrmarcos')
