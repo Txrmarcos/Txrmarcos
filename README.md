@@ -2,7 +2,7 @@
 
 ![Txrmarcos GitHub stats](https://github-readme-stats.vercel.app/api?username=Txrmarcos&show_icons=true&theme=synthwave)
 
-## Tecnologias que utilizo
+## Tech Stack
 
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)]('https://github.com/Txrmarcos')
 [![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)]('https://github.com/Txrmarcos')
